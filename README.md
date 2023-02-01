@@ -1,4 +1,4 @@
-# NLP search
+# SBNet
 
 2021 AI CITY CHALLENGE CVPR Track 5
 
