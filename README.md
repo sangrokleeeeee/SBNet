@@ -1,6 +1,6 @@
-# SBNet
+# SBNet: Segmentation-based Network for Natural Language-based Vehicle Search
 
-2021 AI CITY CHALLENGE CVPR Track 5
+CVPRW 2021
 
 ## requirements
 
